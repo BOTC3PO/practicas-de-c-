@@ -11,7 +11,7 @@ if (l==0)
     std::cin>>n;
     l=1;
 }else{
-    std::cout<<"el numero "<< n << " es menor a 1";
+    std::cout<<"el numero "<< n << " es menor a 1 ";
     std::cin>>n;
     }
 } while (n<1);
